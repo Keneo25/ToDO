@@ -1,0 +1,12 @@
+1^{3} - potega
+\frac{2}{3} - ulamek
+3_{2} - potega nna dole
+2_{3}^{4} - potega góra, dol
+4\lim_{2} - lim
+2\sqrt[3]{4} - pierwiastek
+2\sqrt{3} - zwykly pierwiastek
+2\sum_{3}^{4} - suma
+2\iint_{3}^{4} - podwojne init
+2\int_{3}^{4}  - pojedyncze
+\left (  \right ) - nawiasy
+
