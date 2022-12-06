@@ -9,4 +9,7 @@
 2\iint_{3}^{4} - podwojne init
 2\int_{3}^{4}  - pojedyncze
 \left (  \right ) - nawiasy
-
+\rightarrow -strzalka w prawo
+\leftrightarrow -strzalka w obie strony
+\geqslant - znak wiekszosci/rownosci
+\leqslant -
